@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Flutter",
+      "description": "Flutter is an open-source UI software development kit created by Google. It is used to build applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.",
+      "author": "Hiba"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.",
+      "author": "Fathima"
+    },
+    {
+      "title": "React Native",
+      "description": "It is aa cross platform for building web applications",
+      "author": "facebook",
+      "id": 3
+    },
+    {
+      "title": "dvcds",
+      "description": "dvs",
+      "author": "svds",
+      "id": 4
+    },
+    {
+      "title": "dfv",
+      "description": "vfds",
+      "author": "vsf",
+      "id": 5
+    },
+    {
+      "title": "dfv",
+      "description": "vfds",
+      "author": "vsf",
+      "id": 6
+    },
+    {
+      "title": "d",
+      "description": "d",
+      "author": "ds",
+      "id": 7
+    },
+    {
+      "title": "fv",
+      "description": "fvr",
+      "author": "gvfd",
+      "id": 8
+    }
+  ]
+}
